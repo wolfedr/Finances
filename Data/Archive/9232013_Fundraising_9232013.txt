@@ -1,0 +1,3 @@
+1250836,2013-09-13T00:00:00.003,Debit,061,,500.00,EFT/ACH DEBIT Internet transfer to checking 56855
+1250836,2013-09-13T00:00:00.002,Debit,061,,159.00,EFT/ACH DEBIT Internet transfer to checking 56855
+1250836,2013-09-05T00:00:00.001,Credit,006,,873.00,EFT/ACH CREDIT Internet transfer from checking 56855

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Testing Configuration in finance application-->
+<x:finConfig xmlns:x="http://MyFinance.com/finConfig">
+  <MainTitle>Account System</MainTitle>
+  <Revision>Rev1</Revision>
+</x:finConfig>
